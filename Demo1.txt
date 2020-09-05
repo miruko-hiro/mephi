@@ -1,3 +1,7 @@
 It is demo 1 v 2
+<<<<<<< HEAD
 Risk
 Changed in master
+=======
+Modified Risk
+>>>>>>> experiment1
